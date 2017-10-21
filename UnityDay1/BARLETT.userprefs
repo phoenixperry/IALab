@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{168B6747-107D-0F6D-AE41-696CA3C7AC5F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Spinner2.cs">
+    <Files>
+      <File FileName="Assets/Spinner2.cs" Line="17" Column="45" />
+      <File FileName="Assets/Spinner_redux.cs" Line="18" Column="3" />
+      <File FileName="Assets/Rotater.cs" Line="18" Column="32" />
+      <File FileName="Assets/fancySpins.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BARLETT PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

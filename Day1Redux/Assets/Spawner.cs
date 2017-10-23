@@ -12,8 +12,8 @@ public class Spawner : MonoBehaviour {
         {
             float perc = i / (float)numCubes;
             float sin = Mathf.Sin(perc * (Mathf.PI / 2));
-
-            float x = Mathf.Clamp((1.0f + sin * totalDistance), 0.0f, max: 4.0f); 
+           
+ float x = Mathf.Clamp((1.0f + sin * totalDistance), 0.0f, max: 4.0f); 
 
            // Debug.Log(perc * (Mathf.PI / 2)); 
             Vector3 pos = new Vector3(x, 5.0f, 0.0f);
@@ -24,11 +24,13 @@ public class Spawner : MonoBehaviour {
     } 
 	// Use this for initialization
 	void Start () {
+   
         MakeCubes(); 
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+        if (Input.GetKeyUp(KeyCode.Space))
+        { MakeCubes(); }
+    }
 }

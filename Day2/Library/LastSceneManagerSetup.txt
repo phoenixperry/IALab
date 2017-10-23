@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/conta/Documents/github/IALab/UnityDay1/Assets/roomCube.unity
+  isLoaded: 1
+  isActive: 1

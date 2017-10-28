@@ -20,6 +20,19 @@ Includes links to delve deeper into each topic
 - [Scope and Access Modifiers](https://unity3d.com/learn/tutorials/topics/scripting/vector-maths?playlist=17117)
 - [Randomness](https://docs.unity3d.com/ScriptReference/Random.html)
 
+## Day 2 Topics introduced: 
+- Cosine 
+- Mesh rendering 
+- UVs 
+- Winding order of a mesh 
+- Procedural drawing 
+- Animation with cosine 
+- Light & reflection probes 
+
+## Arduino demo 
+
+There's a unity project here which will expect to receive data from Arduino. This is some code I wrote to make this functional. Note, you'll need to switch the .net sdk being used to compile Unity. You will find it under Edit > Project Settings > Player > Other settings > Configuration to .net 2.0 vs the .net 2.0 subset Unity defaults to building with. You will also have to have an arduino project writing serial data out. Any sensor should work. If you want to send more than one value, my script looks for a , to split values.   
+
 #### Assignment due next Monday, 10/30
 
 Please do [this tutorial](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) and review the code example from class. Go through my code and comment it. What does each thing do? If you do not know, try printing any values you do not understand to the console or using them on your own objects as single commands.

@@ -2,7 +2,7 @@
 
 Goal: To teach the fundamentals of C# and The Unity game Engine.
 
-**Note, I have specifically augmented these tutorials so you can watch them again later on your own.** 
+**Note, I have specifically augmented and worked from these Microsoft tutorials so you can watch them again later on your own. They cover exactly the kind of material you'll need in this course.** 
 [View them here >](https://www.youtube.com/channel/UCqCVSnifeHXivk-Y9bmDb9g) 
 ## Day 1 Topics Introduced:
 

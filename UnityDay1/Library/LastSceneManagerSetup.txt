@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/roomCube.unity
+- path: C:/Users/conta/Documents/github/IALab/Day1Redux/Assets/westWorld.unity
   isLoaded: 1
   isActive: 1

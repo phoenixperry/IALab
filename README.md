@@ -2,6 +2,8 @@
 
 Goal: To teach the fundamentals of C# and The Unity game Engine.
 
+**Note, I have specifically augmented these tutorials so you can watch them again later on your own.** 
+[View them here >](https://www.youtube.com/channel/UCqCVSnifeHXivk-Y9bmDb9g) 
 ## Day 1 Topics Introduced:
 
 Includes links to delve deeper into each topic
@@ -28,6 +30,7 @@ Includes links to delve deeper into each topic
 - Procedural drawing 
 - Animation with cosine 
 - Light & reflection probes 
+
 
 ## Arduino demo 
 

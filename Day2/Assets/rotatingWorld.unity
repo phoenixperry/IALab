@@ -203,7 +203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65f30db73da583145871079a62d54dce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateSpeed: 0.01
+  rotateSpeed: 0.22
 --- !u!81 &742192119
 AudioListener:
   m_ObjectHideFlags: 0
@@ -502,8 +502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   plane: {fileID: 972655353}
-  jitterRange: 0.1
-  isJitter: 0
+  jitterRange: 0.000002
 --- !u!1 &2029453726
 GameObject:
   m_ObjectHideFlags: 0

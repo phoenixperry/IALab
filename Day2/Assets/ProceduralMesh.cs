@@ -40,7 +40,7 @@ public class ProceduralMesh : MonoBehaviour {
 //adding the mapping for the textures. The points map to what points  
 
         uvs.Add(new Vector2(0, 1));
-        uvs.Add(new Vector2(0.5f, 0));
+        uvs.Add(new Vector2(0, 0.5f));
         uvs.Add(new Vector2(1, 1));
 
         //face 2 

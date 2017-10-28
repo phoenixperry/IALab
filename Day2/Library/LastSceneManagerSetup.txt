@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/conta/Documents/github/IALab/UnityDay1/Assets/roomCube.unity
+- path: Assets/rotatingWorld.unity
   isLoaded: 1
   isActive: 1

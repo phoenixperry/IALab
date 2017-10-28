@@ -32,5 +32,6 @@ public class Spawner : MonoBehaviour {
 	void Update () {
         if (Input.GetKeyUp(KeyCode.Space))
         { MakeCubes(); }
+        
     }
 }

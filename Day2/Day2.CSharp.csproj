@@ -219,9 +219,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CameraRotation.cs" />
+    <Compile Include="Assets\CameraRotation_.cs" />
     <Compile Include="Assets\parent.cs" />
     <Compile Include="Assets\ProceduralMesh.cs" />
     <Compile Include="Assets\SceneManager.cs" />
+    <Compile Include="Assets\TestSc.cs" />
+    <Compile Include="Assets\TimeShower.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>

@@ -20,7 +20,7 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientSkyColor: {r: 0.18382353, g: 0.14072008, b: 0, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
@@ -144,7 +144,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 14be69b18624f3d45b9e25c67dc91fc3, type: 2}
+  - {fileID: 2100000, guid: 76e0596d86f815547aa9d31fe66a44e1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -278,12 +278,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 710416990}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd3a6e7604851e94a9eb41bf19d88ef6, type: 3}
+  m_Script: {fileID: 11500000, guid: cc1e3d8ad1795dd4aa3dae8f3b9884a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boxPrefab: {fileID: 1837877111290708, guid: 283a4a3e229731a41aee40a3bae1b3d4, type: 2}
-  numCubes: 10
-  totalDistance: 5
+  cubePre: {fileID: 1311415284073278, guid: 67e609856509a364abde2468039a0cc8, type: 2}
 --- !u!1 &1108329240
 GameObject:
   m_ObjectHideFlags: 0
@@ -484,7 +482,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 781804c6eb8cdf64387e498e69955ede, type: 2}
+  - {fileID: 2100000, guid: d30eb78f914c45d449b989e7844d9a6d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -713,7 +711,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 220fd8d359a75fa4eb9db1d5bb22dc70, type: 2}
+  - {fileID: 2100000, guid: ccdd18966cd7d7c4686e33edc8914407, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
